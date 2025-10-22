@@ -1,0 +1,32 @@
+[
+{
+"descricao": "Comprar leite",
+"bool": false,
+"horarioInicial": "2025-08-13T18:56:35.7180921-03:00",
+"horarioFinal": null
+},
+{
+"descricao": "Comprar Roupa",
+"bool": false,
+"horarioInicial": "2025-08-13T18:56:58.1860426-03:00",
+"horarioFinal": null
+},
+{
+"descricao": "Montar o Pc",
+"bool": false,
+"horarioInicial": "2025-08-13T18:57:09.0034114-03:00",
+"horarioFinal": null
+},
+{
+"descricao": "Jogar CS",
+"bool": true,
+"horarioInicial": "2025-08-13T18:57:38.3949496-03:00",
+"horarioFinal": "2025-08-13T18:58:24.1874572-03:00"
+},
+{
+"descricao": "Comer o cu de marcelinho as 19H",
+"bool": true,
+"horarioInicial": "2025-08-14T18:06:51.8784058-03:00",
+"horarioFinal": "2025-08-14T18:07:24.2284281-03:00"
+}
+]
